@@ -19,7 +19,7 @@ Sou formado em Marketing pela UNISINOS e, movido pela minha paixão por tecnolog
 
 -  Graduando em **Engenharia de Software** na PUCRS (Previsão: 2029).
 -  Faço parte do **PET** (Programa de Educação Tutorial) e participo do **GRIN** (Grupo de Pesquisa em Redes, Infraestrutura e Computação em Nuvem).
--  Atualmente, estou mergulhando no mundo da **Inteligência Artificial**, criando agentes autônomos em Python utilizando frameworks como **Agno** e **LangChain**.
+-  Atualmente, estou mergulhando no mundo da **Inteligência Artificial**, criando agentes autônomos em Python utilizando framework: **Agno**.
 -  Estou em busca de oportunidades na área de tecnologia, onde possa me profissionalizar, aplicar meus conhecimentos e continuar evoluindo.
 
 ---
