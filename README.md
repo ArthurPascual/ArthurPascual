@@ -27,27 +27,13 @@ Sou formado em Marketing pela UNISINOS e, movido pela minha paixão por tecnolog
 ### Tecnologias e Ferramentas
 
 **Linguagens de Programação:**
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) – Avançado
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) – Básico
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) – Básico
 
 **Banco de Dados & Ferramentas:**
-<p>
-  <img src="https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurPascual&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub do Arthur" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurPascual&theme=radium&hide_border=true" alt="GitHub Streak do Arthur" />
-</p>
+- ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) **(Banco de Dados)** – Intermediário
+- ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) – Intermediário
 
 ---
 
